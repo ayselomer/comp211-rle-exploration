@@ -1,5 +1,5 @@
-
 #include <stdio.h>
+#include <string.h>
 
 void encode(const char *s) {
     for (int i = 0; s[i] != '\0'; ) {
