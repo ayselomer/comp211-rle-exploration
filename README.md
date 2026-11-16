@@ -1,5 +1,3 @@
-# comp211-rle-exploration
-
 # Run-Length Encoding (RLE)
 
 Exploration of Run-Length Encoding: a simple lossless data compression technique.
