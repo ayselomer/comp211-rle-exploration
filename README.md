@@ -77,7 +77,7 @@ The simplified count-character format can also become ambiguous when the origina
 
 ## Presentation
 
-The presentation slides are available in [`comp 211 checkoff 3.pdf`](comp 211 checkoff 3.pdf).
+The presentation slides are available in [comp 211 checkoff 3.pdf](comp%20211%20checkoff%203.pdf).
 
 ## Resources
 
